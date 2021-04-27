@@ -31,3 +31,8 @@ date_format: "%Y-%M-%D" //and date format.
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
+
+
+### Usage
+#### local run
+$ bundle exec jekyll serve
